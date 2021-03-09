@@ -34,10 +34,10 @@ doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
       color:#000000;
     }
     .a td {
-      background: #efefef;
+      background: #808080;
     }
     .b td {
-      background: #fff;
+      background: #C0C0C0;
     }
     th, td {
       text-align: left;
